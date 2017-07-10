@@ -1,8 +1,4 @@
 $(document).ready(function() {
-    var h1Tag = "header"
-    var pTag = "paragraph"
-    var imgTag = "image"
-
     var tags = ["h1", "p", "img"]
     var tagMeanings = ["header", "paragraph", "image"]
 
